@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633942874864",
+    "firebase_url": "https://logintest-ef5c5.firebaseio.com",
+    "project_id": "logintest-ef5c5",
+    "storage_bucket": "logintest-ef5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633942874864:android:af25b335725d317bd64035",
+        "android_client_info": {
+          "package_name": "com.example.doggr_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633942874864-841lnp7m1dplnbcitkoqlo0hn7046jii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ85tRKr7YDv2qcLG_7GdgeoIrnOVoWgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633942874864-841lnp7m1dplnbcitkoqlo0hn7046jii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
